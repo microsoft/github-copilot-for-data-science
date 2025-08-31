@@ -1,14 +1,43 @@
-# Project
+<h1 align="center">Github Copilot for Data Pythonistas</h1>
+<h5 align="center">@crazy4pi314 @alfredodeza</h3>
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+<p align="center">
+  <a href="#mega-prerequisites">Prerequisites</a> •
+  <a href="#books-resources">Resources</a> •
+  <a href="#learning-objectives">Learning Objectives</a>
+</p>
 
-As the maintainer of this project, please make a few updates:
+> [!NOTE]
+> Looking for the workshop? Head over to [the workshop directory](./workshop)
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+
+- **Who is this for**: Any tecnologist that wants to understand advanced GitHub Copilot features as it applies to working with Python and data. Software Engineers, Data Engineers, Data Scientists, and anyone working with Python or data might benefit from this workshop too.
+- **What you'll learn**: You'll use advanced GItHub Copilot features and apply it to a project using Python and Data. You will learn how to ask questions about the project and apply them to other data and programming projects.
+- **What you'll build**: #TODO: A command-line tool that uses Python and transforms a CSV dataset so that it can be used in a data pipeline or a CI/CD environment.
+
+## Learning Objectives
+
+In this workshop, you will:
+
+  - Use advanced GitHub Copilot features like slash commands, inline chat, and agents like `@workspace`
+  - Apply GitHub Copilot suggestions and interactions to a data project, especially in Jupyter Notebooks
+  - Understand how to build a useful tool to work with data in a CI/CD environment or data pipeline
+
+## :mega: Prerequisites
+
+Before joining the workshop, there is only one prerequisite: you must have a public GitHub account. All resources, dependencies, and data are part of the repository itself.
+
+
+## :books: Resources
+
+Although not required, some of the features this workshop covers are in these documentation pages:
+
+- [Code with GitHub Codespaces](https://learn.microsoft.com/training/modules/code-with-github-codespaces/)
+- [GitHub Copilot in VS Code](https://code.visualstudio.com/docs/copilot/overview?originUrl=%2Fdocs)
+- [Using advanced GitHub Copilot features](https://learn.microsoft.com/training/modules/advanced-github-copilot/)
+- [Jupyter Notebooks in VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks?originUrl=%2Fdocs%2Fcopilot%2Foverview)
+
+---
 
 ## Contributing
 
