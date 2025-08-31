@@ -23,9 +23,7 @@
 	"customizations": {
 		"codespaces": {
 			"openFiles": [
-			  "workshop/README.md",
-			  "workshop/main.py",
-			  "workshop/check.py"
+			  "workshop/README.md"
 			]
 		},
 		"vscode": {

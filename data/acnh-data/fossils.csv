@@ -1,0 +1,74 @@
+﻿Name,Buy,Sell,Color 1,Color 2,Size,Source,Museum,Version,Interact,Catalog,Filename,Internal ID,Unique Entry ID
+acanthostega,NFS,2000,Beige,Brown,1x1,Assessing fossils,Room 1,1.0.0,No,Not for sale,FtrFossilFirstFourLegs,4664,LQkRP3kBn3T2jBboF
+amber,NFS,1200,Yellow,Yellow,1x1,Assessing fossils,Room 1,1.0.0,No,Not for sale,FtrFossilAmber,294,ANAhATcHWvAGEhRnt
+ammonite,NFS,1100,Beige,Brown,1x1,Assessing fossils,Room 1,1.0.0,No,Not for sale,FtrFossilAmmonoidea,295,ojNKnr4YRrmPi2gPo
+ankylo skull,NFS,3500,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilAnkylosaurusA,169,QQjxKmQ8Aac9cSoM2
+ankylo tail,NFS,2500,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilAnkylosaurusC,171,wLWBm2R727RC3qSL2
+ankylo torso,NFS,3000,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilAnkylosaurusB,170,5QNzf5buPckabN6cR
+anomalocaris,NFS,2000,Black,Gray,1x1,Assessing fossils,Room 1,1.0.0,No,Not for sale,FtrFossilAnomalocaris,4651,TYX964LM2tNZ3SYKC
+archaeopteryx,NFS,1300,Beige,Brown,1x1,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilArchaeopteryx,298,ky9pkmc2fmK9thuFH
+archelon skull,NFS,4000,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilArchelonA,177,cYZhXfyNiqZy2hgeM
+archelon tail,NFS,3500,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilArchelonB,178,CtosFxKjG5nzLGi4t
+australopith,NFS,1100,Beige,Brown,1x1,Assessing fossils,Room 3,1.0.0,No,Not for sale,FtrFossilAustralopithecus,301,vE5WQNHepjDb36K6g
+brachio chest,NFS,5500,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilBrachiosaurusB,4689,FykMyEnM2Xhzd54x8
+brachio pelvis,NFS,5000,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilBrachiosaurusC,4690,5zCdNszyap3Gs7hZY
+brachio skull,NFS,6000,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilBrachiosaurusA,4688,bECfoiR8RoGTXmqCL
+brachio tail,NFS,5500,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilBrachiosaurusD,4691,RTtavecsrgWSGLm7C
+coprolite,NFS,1100,Brown,Brown,1x1,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilCoprolite,296,hKbRzACFb4D24W8HJ
+deinony tail,NFS,2500,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilDeinonychusB,211,e3NuAF5y9iv7J52Sv
+deinony torso,NFS,3000,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilDeinonychusA,210,NSe8AQvNigyZqmLzo
+dimetrodon skull,NFS,5500,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilDimetrodonA,184,sEuSt7ycajTAqSzKg
+dimetrodon torso,NFS,5000,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilDimetrodonB,185,LcbJqY3JzLcQRoPGT
+dinosaur track,NFS,1000,Beige,Brown,1x1,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilIchnology,300,fJWu7dHhZuKxjRwTy
+diplo chest,NFS,4000,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilDiplodocusC,218,ZYuR9spddLgaZawiY
+diplo neck,NFS,4500,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilDiplodocusB,217,odxoEbLSduTmarKkm
+diplo pelvis,NFS,4500,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilDiplodocusD,219,kLYuD5QgNqfKJPfj7
+diplo skull,NFS,5000,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilDiplodocusA,216,n6cAybPhTSykws3Mb
+diplo tail,NFS,5000,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilDiplodocusE,220,iKsrdn2aAxSfe83qZ
+diplo tail tip,NFS,4000,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilDiplodocusF,7251,a2r3s8t7bg4uZvdSy
+dunkleosteus,NFS,3500,Gray,Brown,2x2,Assessing fossils,Room 1,1.0.0,No,Not for sale,FtrFossilDunkleosteus,4660,AtCoTAfo9bKFiGzFD
+eusthenopteron,NFS,2000,Brown,Brown,1x1,Assessing fossils,Room 1,1.0.0,No,Not for sale,FtrFossilFirstAmphibian,4663,BHhdGwq7YeZuHmkEW
+iguanodon skull,NFS,4000,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilIguanodonA,188,pDn2iASHjo7yWKE3k
+iguanodon tail,NFS,3000,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilIguanodonC,190,GL2CuJXa4gYb4E4cE
+iguanodon torso,NFS,3500,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilIguanodonB,189,dJRCXccvviu6chWyK
+juramaia,NFS,1500,Beige,Brown,1x1,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilFirstMammal,4665,Ch68dGRXX2mu7ABgC
+left megalo side,NFS,4000,Beige,Brown,2x2,Assessing fossils,Room 3,1.0.0,No,Not for sale,FtrFossilMegalocerosB,4659,7YzSLZWsjXQNp5xRY
+left ptera wing,NFS,4500,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilPteranodonC,208,GJtNP9DjAFjGQdMPN
+left quetzal wing,NFS,5000,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilQuetzalcoatlusC,4699,rS4iizyMDxN4yizLT
+mammoth skull,NFS,3000,Beige,Brown,2x2,Assessing fossils,Room 3,1.0.0,No,Not for sale,FtrFossilMammothA,195,96CTubnHfYqmHyd3s
+mammoth torso,NFS,2500,Beige,Brown,2x2,Assessing fossils,Room 3,1.0.0,No,Not for sale,FtrFossilMammothB,196,hT68CXm4z8LreXqWS
+megacero skull,NFS,4500,Brown,Brown,2x2,Assessing fossils,Room 3,1.0.0,No,Not for sale,FtrFossilBrontotheriumA,180,8CF9fvWstP6cWRbRD
+megacero tail,NFS,3000,Brown,Brown,2x2,Assessing fossils,Room 3,1.0.0,No,Not for sale,FtrFossilBrontotheriumC,182,NQcfdw5y6fokTPNGs
+megacero torso,NFS,3500,Brown,Brown,2x2,Assessing fossils,Room 3,1.0.0,No,Not for sale,FtrFossilBrontotheriumB,181,NcbHKXp9gq6Y96Wtw
+myllokunmingia,NFS,1500,Gray,Gray,1x1,Assessing fossils,Room 1,1.0.0,No,Not for sale,FtrFossilFirstFish,4662,XjLHtDMYXqwjZd4wT
+ophthalmo skull,NFS,2500,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilOphthalmosaurusA,192,Sq6yQQ6EH2AMqQo2A
+ophthalmo torso,NFS,2000,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilOphthalmosaurusB,193,8tzwNNwbSKAeWAzfP
+pachy skull,NFS,4000,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,Yes,Not for sale,FtrFossilPachycephalosaurusA,198,tgNyyjMaE9GbzMJzQ
+pachy tail,NFS,3500,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilPachycephalosaurusB,199,assKMf95bhB6pe3PM
+parasaur skull,NFS,3500,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilParasaurolophusA,202,6xAZRPKhHNNQLofoE
+parasaur tail,NFS,2500,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilParasaurolophusC,204,fEFd7AbLQpNwkzC8a
+parasaur torso,NFS,3000,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilParasaurolophusB,203,GgX3Tdgzmf4hjguGF
+plesio body,NFS,4500,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilElasmosaurusB,235,jbfiPhmAcserk23rm
+plesio skull,NFS,4000,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilElasmosaurusA,234,ioAEHvPecRoCBLJsK
+plesio tail,NFS,4500,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilElasmosaurusC,236,7dLqS33KYzWRFvkde
+ptera body,NFS,4000,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilPteranodonA,206,6oAjXjSy7DqrbifKT
+quetzal torso,NFS,4500,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilQuetzalcoatlusA,4697,SoS8Q55cyTsEyqeZi
+right megalo side,NFS,5500,Beige,Brown,2x2,Assessing fossils,Room 3,1.0.0,No,Not for sale,FtrFossilMegalocerosA,4658,6qFWqu3vKF9SuPjRE
+right ptera wing,NFS,4500,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilPteranodonB,207,z45jBDDaRufwQkiEf
+right quetzal wing,NFS,5000,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilQuetzalcoatlusB,4698,aAXrsXuY5cTjq4yKi
+sabertooth skull,NFS,2500,Brown,Brown,2x2,Assessing fossils,Room 3,1.0.0,No,Not for sale,FtrFossilSmilodonA,213,4xkrLpphWXubgtRPw
+sabertooth tail,NFS,2000,Brown,Brown,2x2,Assessing fossils,Room 3,1.0.0,No,Not for sale,FtrFossilSmilodonB,214,iXfTo3dxakDrLZxnv
+shark-tooth pattern,NFS,1000,Beige,Brown,1x1,Assessing fossils,Room 1,1.0.0,No,Not for sale,FtrFossilShark,302,yKE5xwKL9EeCJdN4D
+spino skull,NFS,4000,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,Yes,Not for sale,FtrFossilSpinosaurusA,222,qbzMLGPcJWikeTWAG
+spino tail,NFS,2500,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilSpinosaurusC,224,7gnFZgeb6qq6K34Tb
+spino torso,NFS,3000,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilSpinosaurusB,223,Ap8LgQD6Ht4dryTjk
+stego skull,NFS,5000,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilStegosaurusA,226,DqsxWDoY5Mue6eQxg
+stego tail,NFS,4000,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilStegosaurusC,228,DQgfeZCeApGKBazBL
+stego torso,NFS,4500,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilStegosaurusB,227,Lv7ChzGsofd3qEjDL
+T. rex skull,NFS,6000,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,Yes,Not for sale,FtrFossilTRexA,238,9DunYGEb3QhJLwpPu
+T. rex tail,NFS,5000,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilTRexC,240,AfeJAEkmJCdgtMrWj
+T. rex torso,NFS,5500,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilTRexB,239,q9voJCHs9X5b32TWf
+tricera skull,NFS,5500,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,Yes,Not for sale,FtrFossilTriceratopsA,242,ueCYTncJDsf2RYJYx
+tricera tail,NFS,4500,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilTriceratopsC,244,TXbdqeAkhjtqBJAWC
+tricera torso,NFS,5000,Brown,Brown,2x2,Assessing fossils,Room 2,1.0.0,No,Not for sale,FtrFossilTriceratopsB,243,s2EGQuuStMSwFdT8y
+trilobite,NFS,1300,Beige,Brown,1x1,Assessing fossils,Room 1,1.0.0,No,Not for sale,FtrFossilTrilobite,303,qFoqCvDTBd2oyC5Gz
