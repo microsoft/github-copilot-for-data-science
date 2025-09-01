@@ -1,4 +1,4 @@
-<h1 align="center">Github Copilot for Data Pythonistas</h1>
+<h1 align="center">Introduction to GitHub Copilot for Data Science</h1>
 <h5 align="center">@crazy4pi314 @alfredodeza</h3>
 
 <p align="center">
@@ -13,15 +13,16 @@
 
 - **Who is this for**: Any tecnologist that wants to understand advanced GitHub Copilot features as it applies to working with Python and data. Software Engineers, Data Engineers, Data Scientists, and anyone working with Python or data might benefit from this workshop too.
 - **What you'll learn**: You'll use advanced GItHub Copilot features and apply it to a project using Python and Data. You will learn how to ask questions about the project and apply them to other data and programming projects.
-- **What you'll build**: #TODO: A command-line tool that uses Python and transforms a CSV dataset so that it can be used in a data pipeline or a CI/CD environment.
+TODO: update
+<!-- - **What you'll build**:  A command-line tool that uses Python and transforms a CSV dataset so that it can be used in a data pipeline or a CI/CD environment. -->
 
 ## Learning Objectives
-
-In this workshop, you will:
+TODO: update
+<!-- In this workshop, you will: 
 
   - Use advanced GitHub Copilot features like slash commands, inline chat, and agents like `@workspace`
   - Apply GitHub Copilot suggestions and interactions to a data project, especially in Jupyter Notebooks
-  - Understand how to build a useful tool to work with data in a CI/CD environment or data pipeline
+  - Understand how to build a useful tool to work with data in a CI/CD environment or data pipeline -->
 
 ## :mega: Prerequisites
 
