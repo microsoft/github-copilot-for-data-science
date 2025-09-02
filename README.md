@@ -12,17 +12,16 @@
 
 
 - **Who is this for**: Any tecnologist that wants to understand advanced GitHub Copilot features as it applies to working with Python and data. Software Engineers, Data Engineers, Data Scientists, and anyone working with Python or data might benefit from this workshop too.
-- **What you'll learn**: You'll use advanced GItHub Copilot features and apply it to a project using Python and Data. You will learn how to ask questions about the project and apply them to other data and programming projects.
-TODO: update
-<!-- - **What you'll build**:  A command-line tool that uses Python and transforms a CSV dataset so that it can be used in a data pipeline or a CI/CD environment. -->
+- **What you'll learn**: You'll use advanced GitHub Copilot features and apply it to a project using Python, Jupyter Notebooks, and Data. You will learn how to ask questions about the project, use agents to create and extend analyses, and customize your own agents.
+- **What you'll build**:  A new Jupyter notebook that wrangles some CSV data into a nice presentation. 
+TODO: updat
 
 ## Learning Objectives
-TODO: update
-<!-- In this workshop, you will: 
+In this workshop, you will: 
 
-  - Use advanced GitHub Copilot features like slash commands, inline chat, and agents like `@workspace`
-  - Apply GitHub Copilot suggestions and interactions to a data project, especially in Jupyter Notebooks
-  - Understand how to build a useful tool to work with data in a CI/CD environment or data pipeline -->
+- Use advanced GitHub Copilot features like slash commands, inline chat, and agents like `@workspace`
+- Apply GitHub Copilot suggestions and interactions to a data science project, especially in Jupyter Notebooks
+- Understand how to build agents that can speed up your data science projects
 
 ## :mega: Prerequisites
 

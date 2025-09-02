@@ -7,33 +7,32 @@
 		"dockerfile": "Dockerfile",
 		"context": "..",
 		"args": {
-		  "VARIANT": "3.12-bullseye"
+			"VARIANT": "3.12-bullseye"
 		}
-	  },
+	},
 	// Features to add to the dev container. More info: https://containers.dev/features.
-	// "features": {},
-
+	"features": {
+		"ghcr.io/prulloac/devcontainer-features/latex:1": {}
+	},
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
-
 	// Use 'postCreateCommand' to run commands after the container is created.
 	//"postCreateCommand": ". /home/vscode/venv/bin/activate",
-
 	// Configure tool-specific properties.
 	"customizations": {
 		"codespaces": {
 			"openFiles": [
-			  "workshop/README.md"
+				"workshop/README.md"
 			]
 		},
 		"vscode": {
 			"settings": {
-			  "python.defaultInterpreterPath": "/home/vscode/venv/bin/python",
-			  "python.terminal.activateEnvInCurrentTerminal": true,
-			  "terminal.integrated.cwd": "workshop",
-			  "workbench.editorAssociations": {
-			    "*.md": "vscode.markdown.preview.editor"
-			  }
+				"python.defaultInterpreterPath": "/home/vscode/venv/bin/python",
+				"python.terminal.activateEnvInCurrentTerminal": true,
+				"terminal.integrated.cwd": "workshop",
+				"workbench.editorAssociations": {
+					"*.csv": "jupyter-data-wrangler"
+				}
 			},
 			"extensions": [
 				"ms-python.python",
@@ -45,7 +44,6 @@
 			]
 		}
 	}
-
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	// "remoteUser": "root"
 }
