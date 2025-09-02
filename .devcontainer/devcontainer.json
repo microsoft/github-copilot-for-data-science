@@ -12,7 +12,7 @@
 	},
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	"features": {
-		"ghcr.io/prulloac/devcontainer-features/latex:1": {}
+		// "ghcr.io/prulloac/devcontainer-features/latex:1": {}
 	},
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
@@ -41,7 +41,8 @@
 				"ms-toolsai.jupyter",
 				"mechatroner.rainbow-csv",
 				"ms-toolsai.datawrangler",
-				"ms-vscode.live-server"
+				"ms-vscode.live-server",
+				"tomoki1207.pdf"
 			]
 		}
 	}

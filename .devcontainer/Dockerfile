@@ -13,3 +13,8 @@ RUN su vscode -c "python -m venv /home/vscode/venv" \
    && rm -rf /tmp/pip-tmp \
    && echo '\n# Path to your virtual environment\nVIRTUAL_ENV_PATH="/home/vscode/venv"\n\n# Activate the virtual environment if it exists\nif [ -d "$VIRTUAL_ENV_PATH" ]; then\n    source "$VIRTUAL_ENV_PATH/bin/activate"\nfi\n' >> /home/vscode/.zshrc \
    && echo '\n# Path to your virtual environment\nVIRTUAL_ENV_PATH="/home/vscode/venv"\n\n# Activate the virtual environment if it exists\nif [ -d "$VIRTUAL_ENV_PATH" ]; then\n    source "$VIRTUAL_ENV_PATH/bin/activate"\nfi\n' >> /home/vscode/.bashrc
+
+# [Optional] Uncomment this section to install additional OS packages.
+RUN apt-get update && export DEBIAN_FRONTEND=noninteractive \
+    && apt-get -y install --no-install-recommends texlive-xetex texlive-fonts-recommended texlive-plain-generic pandoc
+    

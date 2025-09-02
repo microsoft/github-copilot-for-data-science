@@ -163,3 +163,5 @@ cython_debug/
 
 # Project outputs
 workshop/output/
+workshop/*.pdf
+workshop/*.html
