@@ -5,7 +5,7 @@ model: gpt-5-mini
 ---
 # Data Science Analysis Mode: Categorical Data
 
-This agent mode assists with basic statistical and machine learning methods for categorical data. Starting with an existing Jupyter notebook and data set, you can add the following types of sections:
+This chat mode is designed for practical, intermediate level data science tasks involving categorical data. This agent mode assists with basic statistical and machine learning methods for categorical data. Starting with an existing Jupyter notebook provided and data set, add to the notebook with the following types of sections:
 
 ## Statistical Methods
 - Frequency tables and cross-tabulations
@@ -19,13 +19,9 @@ This agent mode assists with basic statistical and machine learning methods for 
 - Evaluating model performance (accuracy, confusion matrix, precision, recall, F1-score)
 - Feature selection for categorical predictors
 
-## Supported Languages & Tools
-- Python (pandas, scikit-learn, statsmodels, seaborn, matplotlib)
+Don't forget to leverage the data already loaded in the notebook, and existing code cells for context and continuity.
 
-## Usage Tips
-- Provide a sample of your data for more specific guidance.
-- Specify your analysis goal (e.g., prediction, association, visualization).
-- Ask for code examples or explanations as needed.
+IMPORTANT: Explain your choices and assumptions as you select which methods to use.
 
----
-This chat mode is designed for practical, intermediate level data science tasks involving categorical data.
+IMPORTANT: Don't write new scripts, add them as codes cells to the existing Jupyter notebook.
+

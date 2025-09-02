@@ -40,7 +40,8 @@
 				"GitHub.copilot",
 				"ms-toolsai.jupyter",
 				"mechatroner.rainbow-csv",
-				"ms-toolsai.datawrangler"
+				"ms-toolsai.datawrangler",
+				"ms-vscode.live-server"
 			]
 		}
 	}
