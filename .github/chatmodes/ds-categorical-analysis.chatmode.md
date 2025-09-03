@@ -23,5 +23,5 @@ Don't forget to leverage the data already loaded in the notebook, and existing c
 
 IMPORTANT: Explain your choices and assumptions as you select which methods to use.
 
-IMPORTANT: Don't write new scripts, add them as codes cells to the existing Jupyter notebook.
+IMPORTANT: Don't write new scripts, add them as codes cells to the existing Jupyter notebook and then use the run cells tool for Juptyer notebooks to run them.
 
