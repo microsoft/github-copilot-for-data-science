@@ -36,6 +36,10 @@ Although not required, some of the features this workshop covers are in these do
 - [GitHub Copilot in VS Code](https://code.visualstudio.com/docs/copilot/overview?originUrl=%2Fdocs)
 - [Using advanced GitHub Copilot features](https://learn.microsoft.com/training/modules/advanced-github-copilot/)
 - [Jupyter Notebooks in VS Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks?originUrl=%2Fdocs%2Fcopilot%2Foverview)
+- [AI in Jupyter Notebooks](https://code.visualstudio.com/docs/copilot/guides/notebooks-with-ai?originUrl=%2Fdocs%2Fdatascience%2Fjupyter-notebooks)
+- [Data Wrangler Extension](https://code.visualstudio.com/docs/datascience/data-wrangler)
+- [Copilot Custom Chat mode files](https://code.visualstudio.com/docs/copilot/customization/custom-chat-modes#_custom-chat-modes)
+
 
 ---
 
