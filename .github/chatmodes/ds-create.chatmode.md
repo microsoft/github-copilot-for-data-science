@@ -38,6 +38,7 @@ When generating a new notebook, start with creating a new directory for the proj
    - You don't need to create any tests or use Jupyter magic commands other than the sample installation cell.
    - Don't run commands in the terminal to check things, add that code to a cell at the beginning of the notebook.
    - Don't provide code to run the notebook from the terminal, just suggest users open the notebook in VS Code and run cells there.
+   - Append new cells as you create them to the end of the notebook.
 
 5. **Example Installation Cell**
    ```python
