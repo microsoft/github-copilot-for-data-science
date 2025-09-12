@@ -40,6 +40,11 @@ Although not required, some of the features this workshop covers are in these do
 - [Data Wrangler Extension](https://code.visualstudio.com/docs/datascience/data-wrangler)
 - [Copilot Custom Chat mode files](https://code.visualstudio.com/docs/copilot/customization/custom-chat-modes#_custom-chat-modes)
 
+## :next-steps: Next Steps
+
+Continue learning about Agents, GitHub Copilot, and AI tools on:
+- The Azure AI Foundry Discord: [aka.ms/azureaifoundry/discord](https://aka.ms/azureaifoundry/discord) and
+- The Azure AI Foundry GitHub Discussions: [aka.ms/AzureAIFoundryGH](https://aka.ms/AzureAIFoundryGH)
 
 ---
 
