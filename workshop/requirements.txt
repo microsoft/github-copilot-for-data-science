@@ -4,7 +4,7 @@ ipykernel>=6.30.1
 numpy>=1.25.0
 matplotlib>=3.8.0
 seaborn>=0.12.0
-scikit-learn>=1.3.0
+scikit-learn>=1.8.0
 scipy>=1.11.0
 notebook
 jupyter-client
